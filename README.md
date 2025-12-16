@@ -1,4 +1,4 @@
-# 📚 README: Tarea de Limpieza y Preprocesamiento de Datos (Data Wrangling Challenge)
+# 📚 README: Tarea de Limpieza y Preprocesamiento de Datos (Data Wrangling Challenge) Gabriel Tenreiro Calvo
 
 Este repositorio contiene la solución completa para el desafío de **Limpieza y Preprocesamiento de Datos (Data Wrangling)**. El proyecto simula el ciclo completo de la calidad de los datos, desde la creación intencionada de errores hasta su corrección y análisis.
 
